@@ -1,0 +1,11 @@
+{
+  "posts": [
+    { "Id": 1, "email": "anacleto@agentesecreto.es", "password": "a123", "name": "Anacleto" },
+    { "Id": 2, "email": "barbie@fatalwomen.com", "password": "b123", "name": "Barbie" },
+    { "Id": 3, "email": "nancy@fatalwomen.com", "password": "n123", "name": "Nancy" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}

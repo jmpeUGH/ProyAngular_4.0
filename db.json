@@ -1,0 +1,333 @@
+{
+  "users": [
+    { "Id": 1, "email": "anacleto@agentesecreto.es", "password": "a123", "username": "Anacleto" },
+    { "Id": 2, "email": "barbie@fatalwomen.com", "password": "b123", "username": "Barbie" },
+    { "Id": 3, "email": "nancy@fatalwomen.com", "password": "n123", "username": "Nancy" }
+  ],
+  "characters": [
+    {
+      "id": 1,
+      "name": "Frodo Baggins",
+      "actor": "Elijah Wood",
+      "race": "Hobbit",
+      "realm": "La Comarca",
+      "role": "Protagonista",
+      "image": "https://example.com/frodo.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Gandalf",
+      "actor": "Ian McKellen",
+      "race": "Maia",
+      "realm": "Valinor",
+      "role": "Mago",
+      "image": "https://example.com/gandalf.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Aragorn",
+      "actor": "Viggo Mortensen",
+      "race": "Hombre",
+      "realm": "Gondor",
+      "role": "Rey",
+      "image": "https://example.com/aragorn.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Legolas",
+      "actor": "Orlando Bloom",
+      "race": "Elfo",
+      "realm": "Bosque Negro",
+      "role": "Arquero",
+      "image": "https://example.com/legolas.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Gimli",
+      "actor": "John Rhys-Davies",
+      "race": "Enano",
+      "realm": "Montañas Nubladas",
+      "role": "Guerrero",
+      "image": "https://example.com/gimli.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Samwise Gamgee",
+      "actor": "Sean Astin",
+      "race": "Hobbit",
+      "realm": "La Comarca",
+      "role": "Amigo leal",
+      "image": "https://example.com/samwise.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Gollum",
+      "actor": "Andy Serkis",
+      "race": "Hobbit corrompido",
+      "realm": "Cuevas de los Goblins",
+      "role": "Antagonista",
+      "image": "https://example.com/gollum.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Peregrin Took",
+      "actor": "Billy Boyd",
+      "race": "Hobbit",
+      "realm": "La Comarca",
+      "role": "Aventurero",
+      "image": "https://example.com/pippin.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Meriadoc Brandybuck",
+      "actor": "Dominic Monaghan",
+      "race": "Hobbit",
+      "realm": "La Comarca",
+      "role": "Aventurero",
+      "image": "https://example.com/merry.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Boromir",
+      "actor": "Sean Bean",
+      "race": "Hombre",
+      "realm": "Gondor",
+      "role": "Guerrero",
+      "image": "https://example.com/boromir.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Elrond",
+      "actor": "Hugo Weaving",
+      "race": "Elfo",
+      "realm": "Rivendel",
+      "role": "Señor de Rivendel",
+      "image": "https://example.com/elrond.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Galadriel",
+      "actor": "Cate Blanchett",
+      "race": "Elfo",
+      "realm": "Lothlórien",
+      "role": "Dama élfica",
+      "image": "https://example.com/galadriel.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Arwen",
+      "actor": "Liv Tyler",
+      "race": "Elfo",
+      "realm": "Rivendel",
+      "role": "Princesa",
+      "image": "https://www.denofgeek.com/wp-content/uploads/2022/12/Arwen-in-Lord-of-the-Rings-Battle.jpg?resize=768%2C432"
+    },
+    {
+      "id": 14,
+      "name": "Éowyn",
+      "actor": "Miranda Otto",
+      "race": "Hombre",
+      "realm": "Rohan",
+      "role": "Escudera",
+      "image": "https://example.com/eowyn.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Éomer",
+      "actor": "Karl Urban",
+      "race": "Hombre",
+      "realm": "Rohan",
+      "role": "Mariscal",
+      "image": "https://example.com/eomer.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Treebeard",
+      "actor": "John Rhys-Davies (voz)",
+      "race": "Ent",
+      "realm": "Bosque de Fangorn",
+      "role": "Guardián del bosque",
+      "image": "https://example.com/treebeard.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Saruman",
+      "actor": "Christopher Lee",
+      "race": "Maia",
+      "realm": "Isengard",
+      "role": "Mago",
+      "image": "https://example.com/saruman.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Théoden",
+      "actor": "Bernard Hill",
+      "race": "Hombre",
+      "realm": "Rohan",
+      "role": "Rey de Rohan",
+      "image": "https://example.com/theoden.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Grima Wormtongue",
+      "actor": "Brad Dourif",
+      "race": "Hombre",
+      "realm": "Rohan",
+      "role": "Asesor",
+      "image": "https://example.com/grima.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Bilbo Baggins",
+      "actor": "Ian Holm",
+      "race": "Hobbit",
+      "realm": "La Comarca",
+      "role": "Tío de Frodo",
+      "image": "https://example.com/bilbo.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Sauron",
+      "actor": "Sala Baker (forma física),- Anónimo (voz)",
+      "race": "Maia",
+      "realm": "Mordor",
+      "role": "Señor oscuro",
+      "image": "https://example.com/sauron.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Denethor",
+      "actor": "John Noble",
+      "race": "Hombre",
+      "realm": "Gondor",
+      "role": "Senescal de Gondor",
+      "image": "https://example.com/denethor.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Faramir",
+      "actor": "David Wenham",
+      "race": "Hombre",
+      "realm": "Gondor",
+      "role": "Capitán de Gondor",
+      "image": "https://example.com/faramir.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Grimbold",
+      "actor": "Bruce Hopkins",
+      "race": "Hombre",
+      "realm": "Rohan",
+      "role": "Soldado de Rohan",
+      "image": "https://example.com/grimbold.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Gamling",
+      "actor": "Bruce Allpress",
+      "race": "Hombre",
+      "realm": "Rohan",
+      "role": "Soldado de Rohan",
+      "image": "https://example.com/gamling.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Rosie Cotton",
+      "actor": "Sarah McLeod",
+      "race": "Hobbit",
+      "realm": "La Comarca",
+      "role": "Esposa de Samwise",
+      "image": "https://example.com/rosie.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Éothain",
+      "actor": "Sam Comery",
+      "race": "Hombre",
+      "realm": "Rohan",
+      "role": "Niño de Rohan",
+      "image": "https://example.com/eothain.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Madril",
+      "actor": "John Bach",
+      "race": "Hombre",
+      "realm": "Gondor",
+      "role": "Capitán de Gondor",
+      "image": "https://example.com/madril.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Théodred",
+      "actor": "Paris Howe Strewe",
+      "race": "Hombre",
+      "realm": "Rohan",
+      "role": "Príncipe de Rohan",
+      "image": "https://example.com/theodred.jpg"
+    },
+    {
+      "id": 30,
+      "name": "Gríma Langosta",
+      "actor": "Bruce Spence",
+      "race": "Hombre",
+      "realm": "Rohan",
+      "role": "Hombre de Dunland",
+      "image": "https://example.com/grima_langosta.jpg"
+    },
+    {
+      "id": 31,
+      "name": "Háma",
+      "actor": "John Leigh",
+      "race": "Hombre",
+      "realm": "Rohan",
+      "role": "Guardia de Meduseld",
+      "image": "https://example.com/hama.jpg"
+    },
+    {
+      "id": 32,
+      "name": "Ghan-buri-Ghan",
+      "actor": "Stephen Ure",
+      "race": "Hombre de los bosques",
+      "realm": "Bosque de Drúadan",
+      "role": "Jefe tribal",
+      "image": "https://example.com/ghan_buri_ghan.jpg"
+    },
+    {
+      "id": 33,
+      "name": "Haldir",
+      "actor": "Craig Parker",
+      "race": "Elfo",
+      "realm": "Lothlórien",
+      "role": "Guardián de Lothlórien",
+      "image": "https://example.com/haldir.jpg"
+    },
+    {
+      "id": 34,
+      "name": "Celeborn",
+      "actor": "Marton Csokas",
+      "race": "Elfo",
+      "realm": "Lothlórien",
+      "role": "Señor de Lothlórien",
+      "image": "https://example.com/celeborn.jpg"
+    },
+    {
+      "id": 35,
+      "name": "Galadriel",
+      "actor": "Kate Fallow",
+      "race": "Elfo",
+      "realm": "Lothlórien",
+      "role": "Dama élfica",
+      "image": "https://example.com/galadriel_2.jpg"
+    },
+    {
+      "id": 36,
+      "name": "Haldir",
+      "actor": "Jeremy Sinden",
+      "race": "Elfo",
+      "realm": "Lothlórien",
+      "role": "Guardián de Lothlórien",
+      "image": "https://example.com/haldir_2.jpg"
+    }
+  ]
+}

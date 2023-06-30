@@ -1,0 +1,60 @@
+.divChar{
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  border-color: yellow;
+  border: 3px;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+h1{
+  text-align: center;
+}
+
+
+.articleChar{
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-decoration: none;
+}
+.image{
+  width: 200px;
+  height: 270px;
+}
+
+.anch:link {
+  color: yellow;
+  border-color: yellow;
+  border: 1px;
+  border-radius: 4px;
+  padding: 10px;
+}
+
+.anch:visited {
+  color: yellow;
+  border-color: yellow;
+  border: 1px;
+  border-radius: 4px;
+  padding: 10px;
+}
+
+.anch:hover {
+  color: black;
+  background-color: yellow;
+  border-color: black;
+  border: 1px;
+  border-radius: 4px;
+  padding: 10px;
+}
+
+a{
+  color:yellow;
+  width: fit-content;
+  margin: auto;
+  text-decoration: none;
+}

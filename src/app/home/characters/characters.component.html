@@ -1,0 +1,28 @@
+<div class="divChar">
+  <a class="anch" [routerLink]="['/home/new-character']">New character</a>
+</div>
+
+
+<h1>The Lord of The Rings Characters</h1>
+
+<div class="divChar" >
+
+
+    <div *ngFor="let character of characterList">
+
+      <article class="articleChar anch">
+        <a class="anch" [routerLink]="['/home/characterdetail', character.id]">
+
+          <h3>{{character.name}}</h3>
+        </a>
+<!--
+        <h4>{{ character.race }}</h4> -->
+
+      </article>
+
+    </div>
+
+
+
+
+</div>

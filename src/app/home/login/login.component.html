@@ -1,0 +1,12 @@
+
+<form class="divChar" (ngSubmit)="onSubmit()" #form="ngForm">
+  <label for="username">User Name</label>
+  <input type="text" name="username" id="username" [(ngModel)]="username">
+  <label for="username">Contraseña</label>
+  <input type="password" name="password" id="password" [(ngModel)]="password">
+  <label for="email">Email</label>
+  <input type="email" name="emil" id="email" [(ngModel)]="email">
+  <button type="submit">Login</button>
+</form>
+
+<p *ngIf="this.loginService.token">Estás logado</p>
