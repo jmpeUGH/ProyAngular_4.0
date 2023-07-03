@@ -1,13 +1,17 @@
 .divChar{
+  color:yellow;
   text-align: center;
   display: flex;
-  // flex-wrap: wrap;
-  // gap: 20px;
+  flex-wrap: wrap;
   justify-content: center;
-  border-color: yellow;
-  // border: 3px;
-  // border-radius: 5px;
   padding: 10px;
   flex-direction: column;
-  
+}
+.image{
+  max-width: 400px;
+  max-height: 400px;
+  margin-left: 250;
+}
+.divImg{
+  justify-content: center;
 }

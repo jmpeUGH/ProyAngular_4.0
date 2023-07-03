@@ -1,20 +1,34 @@
-.divIntro{
-  // text-align: center;
-  display: flex;
+.divHome{
+
+  text-align: center;
   justify-content: center;
-  // flex-direction: column;
+
+}
+.h3{
   // position: absolute;
   // top: 50%;
   // left: 50%;
   // transform: translate(-50%, -50%);
-  // margin-top: 30px;
-}
-a{
+  text-align: center;
+  font-family: lotr;
   color:yellow;
-  width: fit-content;
-  margin: auto;
+  font-size: 45px;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 12%;
+  padding-bottom: 27%;
+  font-style: italic;
+  font-weight: bold;
 }
-.logo{
-  width:63vw;
-  margin-top: 150px;
+img{
+  width: 100%;
 }
+// a{
+//   color:yellow;
+//   width: fit-content;
+//   margin: auto;
+// }
+// .logo{
+//   width:63vw;
+//   margin-top: 150px;
+// }

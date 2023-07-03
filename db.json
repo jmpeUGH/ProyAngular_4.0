@@ -12,7 +12,7 @@
       "race": "Hobbit",
       "realm": "La Comarca",
       "role": "Protagonista",
-      "image": "https://example.com/frodo.jpg"
+      "image": "https://img.allvipp.com/www-promipool-de/image/upload/w_580,f_webp,q_auto:eco/Frodo_210204_gnc8sb2xpa"
     },
     {
       "id": 2,
@@ -21,16 +21,16 @@
       "race": "Maia",
       "realm": "Valinor",
       "role": "Mago",
-      "image": "https://example.com/gandalf.jpg"
+      "image": "https://www.sociedadtolkien.org/wp-content/uploads/2020/02/Ian-McKellen-Gandalf.jpg"
     },
     {
       "id": 3,
       "name": "Aragorn",
       "actor": "Viggo Mortensen",
-      "race": "Hombre",
+      "race": "Dunedain Montaraz",
       "realm": "Gondor",
       "role": "Rey",
-      "image": "https://example.com/aragorn.jpg"
+      "image": "https://sm.ign.com/t/ign_es/news/a/aragorn-ac/aragorn-actor-viggo-mortensen-forgot-about-the-lord-of-the-r_zp4k.960.jpg"
     },
     {
       "id": 4,
@@ -39,7 +39,7 @@
       "race": "Elfo",
       "realm": "Bosque Negro",
       "role": "Arquero",
-      "image": "https://example.com/legolas.jpg"
+      "image": "https://i0.wp.com/www.lacasadeel.net/wp-content/uploads/2022/10/legolas-depsues-del-senor-de-los-anillos-e1670009027284.jpg?resize=1068%2C601&ssl=1"
     },
     {
       "id": 5,
@@ -48,7 +48,7 @@
       "race": "Enano",
       "realm": "Montañas Nubladas",
       "role": "Guerrero",
-      "image": "https://example.com/gimli.jpg"
+      "image": "https://underworlds.games/wp-content/uploads/2018/07/lotr-el-senor-de-los-anillos-gimli-1024x536.jpg"
     },
     {
       "id": 6,
@@ -57,16 +57,16 @@
       "race": "Hobbit",
       "realm": "La Comarca",
       "role": "Amigo leal",
-      "image": "https://example.com/samwise.jpg"
+      "image": "https://images8.alphacoders.com/127/thumbbig-1270956.webp"
     },
     {
       "id": 7,
       "name": "Gollum",
       "actor": "Andy Serkis",
-      "race": "Hobbit corrompido",
+      "race": "Hobbit corrupto",
       "realm": "Cuevas de los Goblins",
       "role": "Antagonista",
-      "image": "https://example.com/gollum.jpg"
+      "image": "https://variety.com/wp-content/uploads/2022/03/MCDLOOF_EC090.jpg?w=1000&h=563&crop=1&resize=681%2C383"
     },
     {
       "id": 8,
@@ -74,8 +74,8 @@
       "actor": "Billy Boyd",
       "race": "Hobbit",
       "realm": "La Comarca",
-      "role": "Aventurero",
-      "image": "https://example.com/pippin.jpg"
+      "role": "Hobbit",
+      "image": "https://www.giantfreakinrobot.com/wp-content/uploads/2020/05/pippin.jpg"
     },
     {
       "id": 9,
@@ -83,8 +83,8 @@
       "actor": "Dominic Monaghan",
       "race": "Hobbit",
       "realm": "La Comarca",
-      "role": "Aventurero",
-      "image": "https://example.com/merry.jpg"
+      "role": "Hobbit",
+      "image": "https://upload.wikimedia.org/wikipedia/en/4/4a/Meriadoc_Brandybuck_screenshot.jpg?20080530215034"
     },
     {
       "id": 10,
@@ -92,8 +92,8 @@
       "actor": "Sean Bean",
       "race": "Hombre",
       "realm": "Gondor",
-      "role": "Guerrero",
-      "image": "https://example.com/boromir.jpg"
+      "role": "Capitán de Gondor",
+      "image": "https://startefacts.com/upload//upload/news/710669697928.webp"
     },
     {
       "id": 11,
@@ -102,7 +102,7 @@
       "race": "Elfo",
       "realm": "Rivendel",
       "role": "Señor de Rivendel",
-      "image": "https://example.com/elrond.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Elrond11.jpg/130px-Elrond11.jpg"
     },
     {
       "id": 12,
@@ -111,7 +111,7 @@
       "race": "Elfo",
       "realm": "Lothlórien",
       "role": "Dama élfica",
-      "image": "https://example.com/galadriel.jpg"
+      "image": "https://kanto.legiaodosherois.com.br/w760-h398-cfill/wp-content/uploads/2022/08/legiao_CnHrTGtmhR0_.jpg.webp"
     },
     {
       "id": 13,
@@ -119,26 +119,26 @@
       "actor": "Liv Tyler",
       "race": "Elfo",
       "realm": "Rivendel",
-      "role": "Princesa",
-      "image": "https://www.denofgeek.com/wp-content/uploads/2022/12/Arwen-in-Lord-of-the-Rings-Battle.jpg?resize=768%2C432"
+      "role": "Princesa Elfa",
+      "image": "https://kanto.legiaodosherois.com.br/w760-h398-cfill/wp-content/uploads/2022/08/legiao_dhVYSqoz3UJH.jpg.webp"
     },
     {
       "id": 14,
-      "name": "Éowyn",
+      "name": "Eowyn",
       "actor": "Miranda Otto",
       "race": "Hombre",
       "realm": "Rohan",
       "role": "Escudera",
-      "image": "https://example.com/eowyn.jpg"
+      "image": "https://i.blogs.es/eefffe/eowyn/1366_2000.jpg"
     },
     {
       "id": 15,
-      "name": "Éomer",
+      "name": "Eomer",
       "actor": "Karl Urban",
       "race": "Hombre",
       "realm": "Rohan",
-      "role": "Mariscal",
-      "image": "https://example.com/eomer.jpg"
+      "role": "Jefe Rohirrim",
+      "image": "https://img.asmedia.epimg.net/resizer/CuYClQMB0ZG9dqZRClf-Uxt1S4g=/1472x0/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/K3NIOF26JZPPDBEMEIDTRWGECQ.jpg"
     },
     {
       "id": 16,
@@ -147,7 +147,7 @@
       "race": "Ent",
       "realm": "Bosque de Fangorn",
       "role": "Guardián del bosque",
-      "image": "https://example.com/treebeard.jpg"
+      "image": "https://i0.wp.com/codigoespagueti.com/wp-content/uploads/2022/06/ents-the-rings-of-power.jpg?resize=1280%2C720&quality=80&ssl=1"
     },
     {
       "id": 17,
@@ -155,8 +155,8 @@
       "actor": "Christopher Lee",
       "race": "Maia",
       "realm": "Isengard",
-      "role": "Mago",
-      "image": "https://example.com/saruman.jpg"
+      "role": "Mago corrupto",
+      "image": "https://elcomercio.pe/resizer/g_sGS8XFUP1UXR9RvFkAh_NI9N8=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UHFISEZJRVFNXL756DLEIRQRXM.png"
     },
     {
       "id": 18,
@@ -165,7 +165,7 @@
       "race": "Hombre",
       "realm": "Rohan",
       "role": "Rey de Rohan",
-      "image": "https://example.com/theoden.jpg"
+      "image": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2022/12/senor-anillos-theoden-2888964.jpg?tf=1920x"
     },
     {
       "id": 19,
@@ -173,8 +173,8 @@
       "actor": "Brad Dourif",
       "race": "Hombre",
       "realm": "Rohan",
-      "role": "Asesor",
-      "image": "https://example.com/grima.jpg"
+      "role": "Hombre de Rohan corrupto",
+      "image": "https://www.giantbomb.com/a/uploads/scale_small/14/141402/2380577-2662941_grima_wormtongue_large_1_.jpg"
     },
     {
       "id": 20,
@@ -183,7 +183,7 @@
       "race": "Hobbit",
       "realm": "La Comarca",
       "role": "Tío de Frodo",
-      "image": "https://example.com/bilbo.jpg"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkAGi3czSQgQmBOBp46Y_xMcYpVPr2TzpMUQ&usqp=CAU"
     },
     {
       "id": 21,
@@ -192,7 +192,7 @@
       "race": "Maia",
       "realm": "Mordor",
       "role": "Señor oscuro",
-      "image": "https://example.com/sauron.jpg"
+      "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/08/Lord-of-the-Rings-Eye-of-Sauron-Mordor-1.jpg"
     },
     {
       "id": 22,
@@ -201,7 +201,7 @@
       "race": "Hombre",
       "realm": "Gondor",
       "role": "Senescal de Gondor",
-      "image": "https://example.com/denethor.jpg"
+      "image": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2020/09/senor-anillos-denethor-2085801.jpg?tf=1920x"
     },
     {
       "id": 23,
@@ -210,7 +210,7 @@
       "race": "Hombre",
       "realm": "Gondor",
       "role": "Capitán de Gondor",
-      "image": "https://example.com/faramir.jpg"
+      "image": "https://i.redd.it/o7wcer8cs1y21.jpg"
     },
     {
       "id": 24,
@@ -219,16 +219,16 @@
       "race": "Hombre",
       "realm": "Rohan",
       "role": "Soldado de Rohan",
-      "image": "https://example.com/grimbold.jpg"
+      "image": "https://www.thetolkienforum.com/wiki-asset/?pid=1368"
     },
     {
       "id": 25,
-      "name": "Gamling",
+      "name": "Aldor",
       "actor": "Bruce Allpress",
       "race": "Hombre",
       "realm": "Rohan",
-      "role": "Soldado de Rohan",
-      "image": "https://example.com/gamling.jpg"
+      "role": "Arquero de Rohan",
+      "image": "https://i.redd.it/mpb8zyz0x3371.jpg"
     },
     {
       "id": 26,
@@ -236,18 +236,10 @@
       "actor": "Sarah McLeod",
       "race": "Hobbit",
       "realm": "La Comarca",
-      "role": "Esposa de Samwise",
-      "image": "https://example.com/rosie.jpg"
+      "role": "Novia de Samwise",
+      "image": "https://pm1.aminoapps.com/6535/749d91c9ab469524142e280de231effe577dc229_00.jpg"
     },
-    {
-      "id": 27,
-      "name": "Éothain",
-      "actor": "Sam Comery",
-      "race": "Hombre",
-      "realm": "Rohan",
-      "role": "Niño de Rohan",
-      "image": "https://example.com/eothain.jpg"
-    },
+
     {
       "id": 28,
       "name": "Madril",
@@ -255,7 +247,7 @@
       "race": "Hombre",
       "realm": "Gondor",
       "role": "Capitán de Gondor",
-      "image": "https://example.com/madril.jpg"
+      "image": "https://www.aveleyman.com/Gallery/2017/B/35449-25574.jpg"
     },
     {
       "id": 29,
@@ -264,16 +256,16 @@
       "race": "Hombre",
       "realm": "Rohan",
       "role": "Príncipe de Rohan",
-      "image": "https://example.com/theodred.jpg"
+      "image": "https://i.imgur.com/Tr8iNmv.jpeg"
     },
     {
       "id": 30,
-      "name": "Gríma Langosta",
+      "name": "Boca de Sauron",
       "actor": "Bruce Spence",
-      "race": "Hombre",
-      "realm": "Rohan",
-      "role": "Hombre de Dunland",
-      "image": "https://example.com/grima_langosta.jpg"
+      "race": "Hombre de Númenor",
+      "realm": "Mordor",
+      "role": "Mensajero de sauron",
+      "image": "https://i0.wp.com/elanillounico.com/wp-content/uploads/2016/08/AsmusToys-Boca-de-Sauron1.jpg?fit=600%2C900&ssl=1"
     },
     {
       "id": 31,
@@ -282,16 +274,16 @@
       "race": "Hombre",
       "realm": "Rohan",
       "role": "Guardia de Meduseld",
-      "image": "https://example.com/hama.jpg"
+      "image": "https://m.media-amazon.com/images/M/MV5BNWYwYjMyNTMtYTRiOC00ZGJiLTlkMTMtNTE5ZjlkOGQwNjM3XkEyXkFqcGdeQXVyMTk4MDgwNA@@._V1_.jpg"
     },
     {
       "id": 32,
-      "name": "Ghan-buri-Ghan",
+      "name": "Grishnákh",
       "actor": "Stephen Ure",
-      "race": "Hombre de los bosques",
-      "realm": "Bosque de Drúadan",
-      "role": "Jefe tribal",
-      "image": "https://example.com/ghan_buri_ghan.jpg"
+      "race": "Orco",
+      "realm": "Mordor",
+      "role": "Orco",
+      "image": "https://tolkiengateway.net/w/images/6/60/The_Lord_of_the_Rings_-_The_Two_Towers_-_Grishn%C3%A1kh.jpg"
     },
     {
       "id": 33,
@@ -300,7 +292,7 @@
       "race": "Elfo",
       "realm": "Lothlórien",
       "role": "Guardián de Lothlórien",
-      "image": "https://example.com/haldir.jpg"
+      "image": "https://www.councilofelrond.com/albums/album13/15_01.jpg"
     },
     {
       "id": 34,
@@ -309,25 +301,8 @@
       "race": "Elfo",
       "realm": "Lothlórien",
       "role": "Señor de Lothlórien",
-      "image": "https://example.com/celeborn.jpg"
-    },
-    {
-      "id": 35,
-      "name": "Galadriel",
-      "actor": "Kate Fallow",
-      "race": "Elfo",
-      "realm": "Lothlórien",
-      "role": "Dama élfica",
-      "image": "https://example.com/galadriel_2.jpg"
-    },
-    {
-      "id": 36,
-      "name": "Haldir",
-      "actor": "Jeremy Sinden",
-      "race": "Elfo",
-      "realm": "Lothlórien",
-      "role": "Guardián de Lothlórien",
-      "image": "https://example.com/haldir_2.jpg"
+      "image": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2022/10/senor-anillos-comunidad-anillo-celeborn-2839463.jpg"
     }
+
   ]
 }

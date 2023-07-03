@@ -1,28 +1,18 @@
-<div class="divChar">
-  <a class="anch" [routerLink]="['/home/new-character']">New character</a>
-</div>
+<div>
+  <div class="divChar">
+    <a class="anch" [routerLink]="['/home/new-character']">New character</a>
+  </div>
 
 
-<h1>The Lord of The Rings Characters</h1>
+  <h1>The Lord of The Rings Characters</h1>
 
-<div class="divChar" >
-
-
+  <div class="divChar">
     <div *ngFor="let character of characterList">
-
-      <article class="articleChar anch">
-        <a class="anch" [routerLink]="['/home/characterdetail', character.id]">
-
-          <h3>{{character.name}}</h3>
+      <article class="articleChar">
+        <a [routerLink]="['/home/characterdetail', character.id]"><strong><img class="image" [src]="character.image"></strong>
         </a>
-<!--
-        <h4>{{ character.race }}</h4> -->
-
-      </article>
-
+        <strong>{{character.name}}</strong>
+     </article>
     </div>
-
-
-
-
+  </div>
 </div>

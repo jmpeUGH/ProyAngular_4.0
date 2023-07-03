@@ -6,6 +6,7 @@ export interface CharacterInterface{
     race:string;
     realm:string;
     role:string;
+    image:string;
 
 }
 
