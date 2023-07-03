@@ -1,12 +1,29 @@
 
-<form class="divChar" (ngSubmit)="onSubmit()" #form="ngForm">
-  <label for="username">User Name</label>
-  <input type="text" name="username" id="username" [(ngModel)]="name">
-  <label for="username">Contraseña</label>
-  <input type="password" name="password" id="password" [(ngModel)]="pasguord">
-  <label for="email">Email</label>
-  <input type="email" name="emil" id="email" [(ngModel)]="email">
-  <button type="submit">Login</button>
-</form>
+  <div class="divChar">
+  <form class="divForm" (ngSubmit)="onSubmit()" #form="ngForm">
+    <div class="divInput">
+    <label for="username">User Name</label>
+    <input type="text" name="name" id="username" [(ngModel)]="username">
+    </div>
 
-<p *ngIf="this.loginService.token">Estás logado</p>
+    <div class="divInput">
+    <label for="password">Contraseña</label>
+    <input type="password" name="passsword" id="password" [(ngModel)]="password">
+    </div>
+
+    <div class="divInput">
+    <label for="email">Email</label>
+    <input type="email" name="emil" id="email" [(ngModel)]="email">
+    </div>
+    <div class="divInput">
+      <button type="submit">Login</button>
+    </div>
+  </form>
+
+  <p *ngIf="this.loginService.token">Estás logado</p>
+  <p *ngIf="userError==true">ERROR! Si no estás registrado, puedes hacerlo.</p>
+
+</div>
+
+
+
