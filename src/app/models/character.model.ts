@@ -10,16 +10,10 @@ export interface CharacterInterface{
 
 }
 
-// export interface CharacterResp
-// {
+export interface CharacterResp
+{
 
-//     data:
-//       {
-//         characters:CharacterInterface[]
+        characters:CharacterInterface[]
 
-//       };
-
-
-
-  // }
+  }
 

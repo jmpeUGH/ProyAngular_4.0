@@ -1,7 +1,7 @@
 import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { Observable, map } from 'rxjs';
-import { CharacterInterface} from '../models/character.model';
+import { CharacterInterface, CharacterResp} from '../models/character.model';
 
 @Injectable({
   providedIn: 'root'
@@ -10,12 +10,12 @@ export class CharacterService {
 
   constructor(private httpClient:HttpClient) { }
 
-  getCharacters():Observable<any>{
-    return this.httpClient.get(`http://localhost:3000/characters`)
+  getCharacters():Observable<CharacterResp>{
+    return this.httpClient.get<CharacterResp>(`http://localhost:3000/characters`)
 }
 
-  getCharactersDetail(id:string):Observable<any> {
-    return this.httpClient.get(`http://localhost:3000/characters/${id}`)
+  getCharactersDetail(id:string):Observable<CharacterResp> {
+    return this.httpClient.get<CharacterResp>(`http://localhost:3000/characters/${id}`)
   }
 
   postCharacter(character:CharacterInterface){

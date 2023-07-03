@@ -1,6 +1,7 @@
+import { CharacterResp } from './../../models/character.model';
 import { Component } from '@angular/core';
 import { CharacterInterface } from 'src/app/models/character.model';
-import { CharacterService } from 'src/app/services/character.service';
+import { CharacterService} from 'src/app/services/character.service';
 
 @Component({
   selector: 'app-characters',
@@ -8,14 +9,15 @@ import { CharacterService } from 'src/app/services/character.service';
   styleUrls: ['./characters.component.scss']
 })
 export class CharactersComponent {
-  characterList: CharacterInterface[]=[];
+  characterList!: any;
 
   constructor(private characterService:CharacterService){}
 
   ngOnInit(){
     this.characterService.getCharacters().subscribe(data =>{
-      this.characterList=data;
       console.log(data)
+      this.characterList=data;
+
     });
   }
 

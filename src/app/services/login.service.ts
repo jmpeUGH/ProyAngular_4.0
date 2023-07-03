@@ -6,7 +6,7 @@ import { map } from 'rxjs';
 
 @Injectable({
   providedIn: 'root',
-  
+
 })
 export class LoginService {
 
@@ -18,6 +18,7 @@ export class LoginService {
     return this.httpClient.post('https://dummyjson.com/auth/login', object)
     .pipe(
       map((response: any)=>{
+        
         this.token= response.token;
         //Guardo el token en SessionStorage
         sessionStorage.setItem('token-app', response.token);

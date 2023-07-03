@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
-import { CharacterInterface } from 'src/app/models/character.model';
+import { CharacterInterface, CharacterResp } from 'src/app/models/character.model';
 import { CharacterService } from 'src/app/services/character.service';
 
 @Component({
@@ -24,7 +24,7 @@ export class CharacterDetailComponent {
   }
 
   private getcharacterDetail(id:string){
-    this.characterService.getCharactersDetail(id).subscribe((objRecibido:CharacterInterface)=>{
+    this.characterService.getCharactersDetail(id).subscribe((objRecibido:CharacterResp)=>{
       console.log(objRecibido)
       this.characterItem=objRecibido;
 
